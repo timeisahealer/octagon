@@ -1,0 +1,3 @@
+/Users/josieang/Google Drive/CompProjects/hex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/josieang/Google Drive/CompProjects/hex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josieang/Google Drive/CompProjects/hex/cmake-build-debug/CMakeFiles/hex.dir
