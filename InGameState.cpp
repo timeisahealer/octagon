@@ -35,8 +35,8 @@ void InGameState::update() {
             rotate += 4;
         }
         currentKey = Keyboard::Unknown;
+        normaliseRotate();
     }
-    normaliseRotate();
 }
 
 void InGameState::normaliseRotate() {
